@@ -1,0 +1,62 @@
+body.material .comment-wrap {
+padding-top : 0 ;
+}
+#respond {
+margin-top : 0 ;
+}
+.helpie-single-page-module .helpie-primary-view #primary.content-area, .helpie-single-page-module .helpie-primary-view .content-area {
+ width : 100%;
+}
+
+.helpie-single-page-module .helpie-primary-view{
+width : 100%;
+}
+
+div.article-title{
+width : 100%;
+text-align : center;
+}
+
+.helpie-single-page-module .helpie-primary-view .wrapper {
+ margin : none; 
+ width : 100%; 
+}
+
+.helpie-single-page-module .helpie-primary-view #primary.content-area, .helpie-single-page-module .helpie-primary-view .content-area
+width : 100% !important;
+}
+/*
+  modification de la barre projet openfactory
+*/
+
+.helpie-toc>.helpie-element{
+ padding : 0 0 ;
+}
+.pauple-helpie-single-sidebar {
+min-height : 0 ;
+width: 100%;
+text-align : center ;
+}
+
+.helpie-single-page-module .helpie-primary-view #primary.content-area.left-sidebar, .helpie-single-page-module .helpie-primary-view .content-area.left-sidebar {
+margin-left : 0% ;
+}
+
+/*formulaire */
+
+#commentform{
+ display : none;
+}
+
+.btn {
+  color: red;
+}
+
+#show {display:none ; }
+#hide {display:block;}
+#show:target {display: block; }
+#hide:target {display: none; }
+
+.small{
+ font-size : 1rem;
+}
